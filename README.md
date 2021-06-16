@@ -9,7 +9,7 @@
 - Project specs: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
 
 # Links
-Link to project: 
+Link to project: https://codepen.io/sherman-bernard/full/poeqmGp
 
 # Notes
 HTML and CSS files in folder named 'page.'
