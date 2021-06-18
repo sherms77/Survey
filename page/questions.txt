@@ -1,0 +1,24 @@
+1.Name
+2.Email
+3.Age (optional)
+4.Movie watching frequency:
+    a.frequent: 5 or more movies a week
+    b.intermediate: 2 movies a week
+    c.basic: less than 3 movies a month
+5.Do you prefer:
+    a.going to the movies, or
+    b.using streaming services
+6.Do you think movies have gotten better or worse in the last 10 years?
+    a.better
+    b.worse
+    c.unsure
+7.What are your favorite genres (choose three):
+    a.comedy
+    b.romance
+    c.horror
+    d.action
+    e.crime
+    f.thrillers
+    g.art house
+    h.true stories
+8.What do you think film makers can do to make movies interesting?
