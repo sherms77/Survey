@@ -1,8 +1,12 @@
 LINKS
 1.Example form: https://codepen.io/freeCodeCamp/full/VPaoNP
 2.survey form project: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
+3.Link to project: https://codepen.io/sherman-bernard/full/poeqmGp
 
 NOTES: DESCENDING ORDER
+190621: Working on step 10 - UP TO USER STORY #4.
+190621: Finished step 9.
+190621: Added steps to plan and updated layout.
 180621: Finished steps 6-8 from plan. UP TO STEP 9.
 160621: UP TO STEP 6.
 160621: Finished steps 1-5 from plan.
