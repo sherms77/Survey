@@ -1,10 +1,7 @@
 1.Name
 2.Email
 3.Age (optional)
-4.Movie watching frequency:
-    a.frequent: 5 or more movies a week
-    b.intermediate: 2 movies a week
-    c.basic: less than 3 movies a month
+4.Movie watching frequency (enter the number of moives you watch per week as a number):
 5.Do you prefer:
     a.going to the movies, or
     b.using streaming services

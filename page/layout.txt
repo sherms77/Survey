@@ -1,7 +1,7 @@
 Background image
 Put border around questions
 Questions 1-3: input fields
-Question 4: select menu
+Question 4: number
 Question 5: radio buttons
 Question 6: select menu
 Question 7: check boxes

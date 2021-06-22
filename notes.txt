@@ -1,10 +1,13 @@
 LINKS
 1.Example form: https://codepen.io/freeCodeCamp/full/VPaoNP
 2.survey form project: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
-3.Link to project: https://codepen.io/sherman-bernard/full/poeqmGp
+3.Link to project: https://codepen.io/sherman-bernard/pen/poeqmGp 
 
 NOTES: DESCENDING ORDER
-190621: Working on step 10 - UP TO USER STORY #4.
+210621: Updated plan in GitHub. Finished user stories 9-11. UP TO USER STORY #12.
+210621: Added steps to plan - UPDATE IN GITHUB THEN WORK ON USER STORY #9.
+210621: Finished user stories 4-8. UP TO USER STORY #9.
+190621: Working on step 10. Finished user stories 1-3. UP TO USER STORY #4.
 190621: Finished step 9.
 190621: Added steps to plan and updated layout.
 180621: Finished steps 6-8 from plan. UP TO STEP 9.

@@ -1,14 +1,39 @@
-<div class="main">
+<div class="header">
   <h1 id="title" class="center-text">Movie Survey Form</h1>
   <p id="description" class="center-text">A survey about movie watchers</p>
-  <form id="survey-form">
-    <div class="survey">
-      <!--working on user story #4-->
-      <form id="name">Name
-        <input></form>
-    </div>
-  
-  </form>
-  
-
 </div>
+<form id="survey-form">
+  <div class="survey">
+    <label id="name-label" for="name">Name: 
+    </label>
+    <input 
+      id="name"
+      type="text" 
+      name="name"
+      placeholder="Enter your name"
+      required>
+  </div>
+  <div class="survey">
+    <label id="email-label" for="email">Email: 
+    </label>
+    <input 
+      id="email" 
+      type="email" 
+      name="email"
+      placeholder="Enter your email"           
+      required>
+  </div>
+  <div class="survey">
+    <label id="number-label" for="number">How many movies do you watch a week? (Enter a number between 1 and 10): 
+    </label>
+    <!--need the make input box wider-->
+    <input
+      id="number"
+      type="number"                               
+      name="number"
+      min="0"
+      max="10"
+      placeholder="Num"           
+      required> 
+  </div>
+</form>

@@ -8,4 +8,10 @@ Draft questions
 Structure page layout
 Get background image
 Meet user story requirements. (Did not add this step to GitHub project plan. Individual user stories added as steps.)
+Center questions
+Put questions above entry fields
+Change font
+Space out questions
+Put border around questions
+Add background image
 Submit project
