@@ -1,12 +1,12 @@
 <div class="header">
-  <h1 id="title" class="center-text">Movie Survey Form</h1>
-  <p id="description" class="center-text">A survey about movie watchers</p>
+  <h1 id="title">Movie Survey Form</h1>
+  <p id="description">A survey about movie watchers</p>
 </div>
 <form id="survey-form">
   <div class="survey">
-    <label id="name-label" for="name">Name: 
-    </label>
-    <input 
+    <label id="name-label" for="name" class="label">Name:</label>
+    <input
+      class="input"
       id="name"
       type="text" 
       name="name"
@@ -14,8 +14,7 @@
       required>
   </div>
   <div class="survey">
-    <label id="email-label" for="email">Email: 
-    </label>
+    <label id="email-label" for="email">Email:</label>
     <input 
       id="email" 
       type="email" 
@@ -24,8 +23,7 @@
       required>
   </div>
   <div class="survey">
-    <label id="number-label" for="number">How many movies do you watch a week? (Enter a number between 1 and 10): 
-    </label>
+    <label id="number-label" for="number">How many movies do you watch a week? (Enter a number between 1 and 10):</label>
     <!--need the make input box wider-->
     <input
       id="number"
@@ -65,6 +63,7 @@
     </select>
   </div>
   <div class="survey">
+    <!--restrict to three options-->
     <p>What are your favorite genres? (Choose three)</p>
     <label for="comedy">
         <input

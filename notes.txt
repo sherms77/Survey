@@ -4,6 +4,11 @@ LINKS
 3.Link to project: https://codepen.io/sherman-bernard/pen/poeqmGp 
 
 NOTES: DESCENDING ORDER
+230621: Still working on step 14.
+230621: Finished step 13. UP TO STEP 14.
+230621: Finished step 11. Working on step 12.
+230621: Added step to plan - Map CSS elements.
+230621: Added step to plan - Map elements.
 220621: Finished user story #16 and step 10 in plan. UP TO STEP 11.
 220621: Finished user stories 14-15. UP TO USER STORY 16.
 220621: Finished user story #13. UP TO USER STORY #14.
