@@ -29,11 +29,128 @@
     <!--need the make input box wider-->
     <input
       id="number"
-      type="number"                               
+      type="number"                       
       name="number"
       min="0"
       max="10"
       placeholder="Num"           
       required> 
   </div>
+  <div class="survey"> 
+    <p>"Do you prefer (choose one):"</p>
+    <label for="movies">
+      <input 
+        id="movies"
+        value="Going to the movies"
+        type ="radio" 
+        name="prefer-group">
+      Going to the movies
+    </label>
+    <label for="streaming"> 
+      <input 
+        id="streaming"
+        value="Using streaming services"             
+        type="radio" 
+        name="prefer-group">
+      Using streaming services
+    </label>
+  </div>
+  <div class="survey"> 
+    <label id="dropdown-label" for="dropdown">"Do you think movies have gotten better or worse in the last 10 years?"</label>
+    <select id="dropdown" name="dropdown" required>
+      <option disabled selected value>Select one option</option>
+      <option value="Better">Better</option>
+      <option value="Worse">Worse</option>
+      <option values="Unsure">Unsure</option>
+    </select>
+  </div>
+  <div class="survey">
+    <p>What are your favorite genres? (Choose three)</p>
+    <label for="comedy">
+        <input
+          id="comedy"
+          value="comedy"
+          type="checkbox"
+          name="genre-group"
+          required>
+        Comedy
+      </label>
+    <label for="romance">
+        <input
+          id="romance"
+          value="romance"
+          type="checkbox"
+          name="genre-group"
+          required>
+        Romance
+      </label>  
+    <label for="horror">
+        <input
+          id="horror"
+          value="horror"
+          type="checkbox"
+          name="genre-group"
+          required>
+        Horror
+      </label>
+    <label for="action">
+        <input
+          id="action"
+          value="action"
+          type="checkbox"
+          name="genre-group"
+          required>
+        Action
+      </label>
+    <label for="crime">
+        <input
+          id="crime"
+          value="crime"
+          type="checkbox"
+          name="genre-group"
+          required>
+        Crime
+      </label>
+    <label for="thrillers">
+        <input
+          id="thrillers"
+          value="thrillers"
+          type="checkbox"
+          name="genre-group"
+          required>
+        Thrillers
+      </label>
+    <label for="art-house">
+        <input
+          id="art-house"
+          value="art-house"
+          type="checkbox"
+          name="genre-group"
+          required>
+        Art house
+      </label>
+    <label for="true-stories">
+        <input
+          id="true-stories"
+          value="true-stories"
+          type="checkbox"
+          name="genre-group"
+          required>
+        True stories
+      </label>
+  </div>
+  <div class="survey">
+    <p>What do you think film makers can do to make movies more interesting?</p>
+    <textarea 
+      id="opinion" 
+      name="opinion" 
+      placeholder="Enter your response here..">
+      </textarea>   
+    </label>
+  </div>
+<div class="survey">
+  <button id="submit" type="submit" class="submit"> 
+    Submit
+  </button>
+</div>
 </form>

@@ -4,6 +4,10 @@ LINKS
 3.Link to project: https://codepen.io/sherman-bernard/pen/poeqmGp 
 
 NOTES: DESCENDING ORDER
+220621: Finished user story #16 and step 10 in plan. UP TO STEP 11.
+220621: Finished user stories 14-15. UP TO USER STORY 16.
+220621: Finished user story #13. UP TO USER STORY #14.
+220621: Finished user story #12. UP TO USER STORY #13.
 210621: Updated plan in GitHub. Finished user stories 9-11. UP TO USER STORY #12.
 210621: Added steps to plan - UPDATE IN GITHUB THEN WORK ON USER STORY #9.
 210621: Finished user stories 4-8. UP TO USER STORY #9.
