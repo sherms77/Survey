@@ -4,19 +4,24 @@
 }
 .survey{
   position: relative;
-  text-align: center;
+  text-align: left;
+  background-color: lightblue;
+  border-color: red;
+  border-width: 5px;
+  border-style: solid;
   
    /*put a border around questions*/
   /*margins and padding for content in border - Ie: padding (padding controls space between the elements content and its border), border and margin (margin controls amount of space between an elements border and surrounding elements)*/
   /*change font - match fonts used in header*/
   /*background image and color might need to go here*/
 
-  .lable{
-    position: relative;
+  .label{
+    position: absolute;
+    
   }
   
 }
-.input{
+.inputData{
   postion: absolute; 
   bottom: 100px;
   /*put questions above entry fields - need to create another class for input fields*/
