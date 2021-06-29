@@ -10,7 +10,7 @@ Get background image
 Meet user story requirements. (Did not add this step to GitHub project plan. Individual user stories added as steps.)
 Map elements
 Map CSS classes
-Center questions
+Align questions correctly
 Put questions above entry fields
 Change font
 Space out questions
