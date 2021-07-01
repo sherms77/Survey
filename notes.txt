@@ -4,6 +4,7 @@ LINKS
 3.Link to project: https://codepen.io/sherman-bernard/pen/poeqmGp 
 
 NOTES: DESCENDING ORDER
+300621: Still positioning elements. Was able to position name and email inputs below labels in tests folder. Trying to apply to project in codepen editor.
 280621: Still working on step 14. Started working on step 17 too - experimenting with borders.
 280621: Still working on step 14.
 260621: Still working on step 14.
