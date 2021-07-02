@@ -1,15 +1,15 @@
 1.Name
 2.Email
 3.Age (optional)
-4.Movie watching frequency (enter the number of moives you watch per week as a number):
-5.Do you prefer:
+4.How many movies do you watch a week?
+5.Do you prefer (choose one):
     a.going to the movies, or
     b.using streaming services
-6.Do you think movies have gotten better or worse in the last 10 years?
-    a.better
-    b.worse
-    c.unsure
-7.What are your favorite genres (choose three):
+6.Are movies better or worse?
+    a.Better
+    b.Worse
+    c.Unsure
+7.What are your favorite genres (choose all that apply):
     a.comedy
     b.romance
     c.horror
@@ -18,4 +18,4 @@
     f.thrillers
     g.art house
     h.true stories
-8.What do you think film makers can do to make movies more interesting?
+8.How can movies be more interesting?
