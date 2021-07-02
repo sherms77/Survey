@@ -1,29 +1,33 @@
+body {
+  font-family: arial !important;
+  background: azure;
+}
+.header {
+  text-align: center;
+}
+form {
+  border: solid
+}
+.survey {
+  text-align: left;
+  margin: 15px 30px 0px 30px;  
+  padding: 0px 0px 0px 0px;
+  /*can't put border here - puts borders around each element*/
+}
 input {
   width: 100%;
-  text-align: left;
+  padding: 12px 20px;
+  margin: 8px 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;  
 }
-.header{
-  text-align: center;
-  /*change font (choose from google fonts*/
+radio{}
+checkbox{}
+select{
+  width: 100%;
+  margin: 10px 0px; 0px 10px;
 }
-.survey{
-  position: relative;
-  text-align: left;
-   
-  .label{
-    position: absolute;
-    
-  }
-  
-} 
-.submit{
-  /*change font - match fonts used in header*/
-  /*make bigger*/
-  /*round border*/
-  /*change color*/
-}
-.background{
-  /*add background picture*/
-  /*color?*/
-  /*make opaque*/
-}
+textarea{}
+button{}

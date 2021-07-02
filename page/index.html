@@ -10,7 +10,7 @@
       id="name"
       type="text" 
       name="name"
-      placeholder="Enter your name"
+      placeholder="Name"
       required>
   </div>
   <div class="survey">
@@ -19,11 +19,11 @@
       id="email" 
       type="email" 
       name="email"
-      placeholder="Enter your email"           
+      placeholder="Email"           
       required>
   </div>
   <div class="survey">
-    <label id="number-label" for="number">How many movies do you watch a week? (Enter a number between 1 and 10):</label>
+    <label id="number-label" for="number">How many movies do you watch a week?</label>
     <!--need the make input box wider-->
     <input
       id="number"
@@ -31,11 +31,11 @@
       name="number"
       min="0"
       max="10"
-      placeholder="Num"           
+      placeholder="Number"           
       required> 
   </div>
   <div class="survey"> 
-    <p>"Do you prefer (choose one):"</p>
+    <p>Do you prefer (choose one):</p>
     <label for="movies">
       <input 
         id="movies"
@@ -54,7 +54,7 @@
     </label>
   </div>
   <div class="survey"> 
-    <label id="dropdown-label" for="dropdown">"Do you think movies have gotten better or worse in the last 10 years?"</label>
+    <label id="dropdown-label" for="dropdown">Are movies better or worse?</label>
     <select id="dropdown" name="dropdown" required>
       <option disabled selected value>Select one option</option>
       <option value="Better">Better</option>
@@ -63,8 +63,7 @@
     </select>
   </div>
   <div class="survey">
-    <!--restrict to three options-->
-    <p>What are your favorite genres? (Choose three)</p>
+    <p>What are your favorite genres? (Choose all that apply)</p>
     <label for="comedy">
         <input
           id="comedy"
@@ -139,7 +138,7 @@
       </label>
   </div>
   <div class="survey">
-    <p>What do you think film makers can do to make movies more interesting?</p>
+    <p>How can movies be more interesting?</p>
     <textarea 
       id="opinion" 
       name="opinion" 

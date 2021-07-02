@@ -15,5 +15,10 @@ Put questions above entry fields
 Change font
 Space out questions
 Put border around questions
+Format radio buttons
+Format select element
+Format check boxes
+Format textarea element 
+Format submit button 
 Add background image
 Submit project
