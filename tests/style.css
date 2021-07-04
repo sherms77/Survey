@@ -12,7 +12,13 @@ input {
     background-color: lightgrey;
     width: 100%;
     display: inline-block;
-    
+}
+
+/*need to use id or class to control button positions to override settings in input selector*/
+.radio {
+    width: 5%;
+}
+
 /*
 input {
     width: 100%;

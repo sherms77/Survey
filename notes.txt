@@ -4,6 +4,8 @@ LINKS
 3.Link to project: https://codepen.io/sherman-bernard/pen/poeqmGp 
 
 NOTES: DESCENDING ORDER
+030721: Controlling radio buttons in its own class using width. Refer to style.css.
+030721: Working on step 18. Running tests on how to move radio button in pos.html and style.css.
 020721: Finished steps 14-17. Added new steps 18-22. UP TO STEP 18.
 300621: Still positioning elements. Was able to position name and email inputs below labels in tests folder. Trying to apply to project in codepen editor.
 280621: Still working on step 14. Started working on step 17 too - experimenting with borders.
