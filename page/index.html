@@ -1,12 +1,12 @@
 <div class="header">
-  <h1 id="title">Movie Survey Form</h1>
+  <h1 id="title">Movie Survey</h1>
   <p id="description">A survey about movie watchers</p>
 </div>
 <form id="survey-form">
   <div class="survey">
     <label id="name-label" for="name" class="label">Name:</label>
     <input
-      class="input"
+      class="entryFields"
       id="name"
       type="text" 
       name="name"
@@ -16,6 +16,7 @@
   <div class="survey">
     <label id="email-label" for="email">Email:</label>
     <input 
+      class="entryFields"
       id="email" 
       type="email" 
       name="email"
@@ -24,8 +25,8 @@
   </div>
   <div class="survey">
     <label id="number-label" for="number">How many movies do you watch a week?</label>
-    <!--need the make input box wider-->
     <input
+      class="entryFields"
       id="number"
       type="number"                       
       name="number"
@@ -36,7 +37,7 @@
   </div>
   <div class="survey"> 
     <p>Do you prefer (choose one):</p>
-    <label for="movies">
+    <label for="movies" class="boxesInput">
       <input 
         id="movies"
         value="Going to the movies"
@@ -44,10 +45,10 @@
         name="prefer-group">
       Going to the movies
     </label>
-    <label for="streaming"> 
+    <label for="streaming" class ="boxesInput"> 
       <input 
         id="streaming"
-        value="Using streaming services"             
+        value="Using streaming services"       
         type="radio" 
         name="prefer-group">
       Using streaming services
@@ -55,7 +56,7 @@
   </div>
   <div class="survey"> 
     <label id="dropdown-label" for="dropdown">Are movies better or worse?</label>
-    <select id="dropdown" name="dropdown" required>
+    <select id="dropdown" name="dropdown" class="entryFields" required>
       <option disabled selected value>Select one option</option>
       <option value="Better">Better</option>
       <option value="Worse">Worse</option>
@@ -64,7 +65,7 @@
   </div>
   <div class="survey">
     <p>What are your favorite genres? (Choose all that apply)</p>
-    <label for="comedy">
+    <label for="comedy" class="boxesInput">
         <input
           id="comedy"
           value="comedy"
@@ -73,7 +74,7 @@
           required>
         Comedy
       </label>
-    <label for="romance">
+    <label for="romance" class="boxesInput">
         <input
           id="romance"
           value="romance"
@@ -82,7 +83,7 @@
           required>
         Romance
       </label>  
-    <label for="horror">
+    <label for="horror" class="boxesInput">
         <input
           id="horror"
           value="horror"
@@ -91,7 +92,7 @@
           required>
         Horror
       </label>
-    <label for="action">
+    <label for="action" class="boxesInput">
         <input
           id="action"
           value="action"
@@ -100,7 +101,7 @@
           required>
         Action
       </label>
-    <label for="crime">
+    <label for="crime" class="boxesInput">
         <input
           id="crime"
           value="crime"
@@ -109,7 +110,7 @@
           required>
         Crime
       </label>
-    <label for="thrillers">
+    <label for="thrillers" class="boxesInput">
         <input
           id="thrillers"
           value="thrillers"
@@ -118,7 +119,7 @@
           required>
         Thrillers
       </label>
-    <label for="art-house">
+    <label for="art-house" class="boxesInput">
         <input
           id="art-house"
           value="art-house"
@@ -127,7 +128,7 @@
           required>
         Art house
       </label>
-    <label for="true-stories">
+    <label for="true-stories" class="boxesInput">
         <input
           id="true-stories"
           value="true-stories"
@@ -146,9 +147,9 @@
       </textarea>   
     </label>
   </div>
-<div class="survey">
-  <button id="submit" type="submit" class="submit"> 
-    Submit
-  </button>
-</div>
+  <div class="survey">
+    <button id="submit" type="submit" class="submit"> 
+      Submit
+    </button>
+  </div>
 </form>

@@ -1,33 +1,45 @@
 body {
   font-family: arial !important;
-  background: azure;
+  background-image: url("https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-repeat: no-repeat;
 }
 .header {
   text-align: center;
 }
 form {
-  border: solid
+  padding: 40px 15px 40px 15px;
+  margin: 30px 200px 30px 200px;
+  border: solid;
+  border-width: thin;
+  border-radius: 15px 15px 15px 15px;
+  border-color: gray;
+  background-color: gray;
 }
 .survey {
   text-align: left;
-  margin: 15px 30px 0px 30px;  
-  padding: 0px 0px 0px 0px;
-  /*can't put border here - puts borders around each element*/
+  margin: 15px 30px 0px 30px; 
+  padding-top: 5px;
 }
-input {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0px;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;  
+.entryFields {
+  /*controls questions 1-3 and 5*/
+  width: 100%;  
+  padding: 10px 5px 5px 5px;
 }
-radio{}
-checkbox{}
-select{
-  width: 100%;
-  margin: 10px 0px; 0px 10px;
+.boxesInput {
+  /*controls radio butons and checkboxes*/
+  display: block;
+  padding: 3px;
 }
-textarea{}
-button{}
+textarea {
+  width: 89%;
+  height: 80px;
+}
+button {
+  width: 90%;
+  height: 40px;
+  background-color: darkslateblue;
+  color: white;
+  border: solid;
+  border-width: thin;
+  border-color: darkslateblue;
+}

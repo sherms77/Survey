@@ -16,4 +16,4 @@ HTML and CSS files in folder named 'page.'
 
 # Timeline
 - Started: 16 June 2021
-- Finished: TBC
+- Finished: 5 July 2021

@@ -3,7 +3,9 @@ LINKS
 2.survey form project: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
 3.Link to project: https://codepen.io/sherman-bernard/pen/poeqmGp 
 
-NOTES: DESCENDING ORDER
+NOTES: DESCENDING ORDER 
+050721: Finished steps 22-25. Submitted project - Passed.
+050721: Finished steps 18-21. Added new step - 24: Better background colors and border. UP TO STEP 22.
 030721: Controlling radio buttons in its own class using width. Refer to style.css.
 030721: Working on step 18. Running tests on how to move radio button in pos.html and style.css.
 020721: Finished steps 14-17. Added new steps 18-22. UP TO STEP 18.

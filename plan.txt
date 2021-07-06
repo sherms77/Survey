@@ -21,4 +21,5 @@ Format check boxes
 Format textarea element 
 Format submit button 
 Add background image
+Better background colors and border
 Submit project
